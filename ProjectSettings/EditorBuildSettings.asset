@@ -4,5 +4,9 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/TempleScene.unity
+    guid: ad7e6ee00eb5f4bdaa07e9e44d1d9e2e
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
